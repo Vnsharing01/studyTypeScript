@@ -15,3 +15,5 @@ let a1 = API_STATUS2.PEDDING;
 let a2 = API_STATUS2.FULFILLED
 
 console.log(">> show a1: " , a1, ">> show a2: " , a2)
+
+/// TODO: fontend : syntax (đồng bộ hoá cú pháp; tương tự như ở các ngôn ngữ khác)
