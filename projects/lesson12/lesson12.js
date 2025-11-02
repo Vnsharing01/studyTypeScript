@@ -1,0 +1,1 @@
+let myArray = ['shiamrin', 'otaku', ' wibu', 12]
